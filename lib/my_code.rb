@@ -1,2 +1,2 @@
 # My Code here....
-map_to_negativize([])
+def map_to_negativize([])
